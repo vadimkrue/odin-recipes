@@ -6,6 +6,14 @@ html {
    background-color: white;
 }
 
+body {
+   margin: 80px 120px;
+}
+
+.container {
+   max-width: 760px;
+}
+
 h1,
 h2,
 h3 {
